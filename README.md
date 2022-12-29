@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey guys, I'm Madhavam. I'm a CS major at Texas Christian university and I have over 3 years of software development experience. I am proficient in java, dart,flutter, firebase, c++, python, web scrapping, REST APIs,  node.js, and more. I have published multiple apps on the google play store which have hundreds of active users. I'm passionate about tech and always eager to learn more about it.
+Hey guys, I'm Madhavam. I'm a CS major at Texas Christian university and I have over 3 years of software development experience. I am proficient in java, dart,flutter, firebase, c++, python, web scrapping, REST APIs,  node.js, and more. I have published multiple apps on the google play store which have hundreds of active users. I'm passionate about tech and always eager to learn more about it. Here's my portfolio: https://madhavamshahi.github.io/
 
 
 ## 🌐 Socials:
