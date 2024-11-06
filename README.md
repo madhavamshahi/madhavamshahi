@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hey guys, I'm Madhavam. I'm a CS major at Texas Christian university and I have over 3 years of software development experience. I am proficient in java, dart,flutter, firebase, c++, python, web scrapping, REST APIs,  node.js, and more. I have published multiple apps on the google play store which have hundreds of active users. I'm passionate about tech and always eager to learn more about it. Here's my portfolio: https://madhavamshahi.github.io/
+Hi, I'm Madhavam, a Software Engineer based in Texas. I've been into programming and software development since early high school. Currently, I am a Software Engineer Intern at HF Custom Solutions, where I am working on automation tools, and building in-house software. This summer, I worked as a Software Engineer Intern at CBRE, a Fortune 150 company, where I worked on various microapplications and microservices primarily on VAS Tops2 (internal CBRE software). 
+
+I am also the founder of Quipler, a social networking platform designed for college students. Quipler has successfully raised $10,300 in funding and has onboarded hundreds of active users. This platform is a full-stack web and iOS application developed using Flutter, Dart, Node.js, and Firebase. I've also developed and published multiple apps (personal projects) on the Google Play Store which had hundreds of active users, you can find the links to the projects on my portfolio. 
+Here's my portfolio: https://madhavamshahi.github.io/
 
 
 ## 🌐 Socials:
