@@ -2,8 +2,11 @@
 Hi, I'm Madhavam, a Software Engineer based in Texas. I've been into programming and software development since early high school. Currently, I am a Software Engineer Intern at HF Custom Solutions, where I am working on automation tools, and building in-house software. This summer, I worked as a Software Engineer Intern at CBRE, a Fortune 150 company, where I worked on various microapplications and microservices primarily on VAS Tops2 (internal CBRE software). 
 
 I am also the founder of Quipler, a social networking platform designed for college students. Quipler has successfully raised $10,300 in funding and has onboarded hundreds of active users. This platform is a full-stack web and iOS application developed using Flutter, Dart, Node.js, and Firebase. I've also developed and published multiple apps (personal projects) on the Google Play Store which had hundreds of active users, you can find the links to the projects on my portfolio. 
-Here's my portfolio: https://madhavamshahi.github.io/
 
+I'm also passionate about competing in hackathons and creating innovative software solutions. I had the honor of winning first prize at PeddieHacks, an international hackathon that featured over 300 participants from around the globe, and I secured second runner-up in the Times NIE national hackathon in India. One of my proudest achievements was developing an app in high school that saved 10+ real lives during the COVID-19 pandemic in India. I love building solutions to real-world problems.
+
+P.S I love PC games and playing pool!
+Here's my portfolio: https://madhavamshahi.github.io/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavam-pratap-shahi-a976ab210) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@madhavam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13917970) 
